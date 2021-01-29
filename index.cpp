@@ -1,6 +1,7 @@
   
 #include <iostream.h>
 #include <conio.h>
+namespace std;
 void main()
 {
 /* This is to clear the screen so that your previous results don't just show up */
